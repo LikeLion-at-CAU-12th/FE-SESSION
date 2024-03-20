@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap");
+
+* {
+  font-family: "Gamja Flower", sans-serif;
+}
+
+#introduction {
+  text-align: center;
+  font-size: 30px;
+}
+
+#title {
+  text-align: center;
+  font-size: 80px;
+}
+
+#container {
+  width: 80%;
+  border: 6px solid black;
+  background-color: white;
+  margin: auto;
+}
+
+body {
+  background-color: darkseagreen;
+}
+
+img {
+  height: 300px;
+  margin-left: 30%;
+  border-radius: 20px;
+  margin-right: 50px;
+}
+
+.description {
+  display: inline-block;
+  font-size: 30px;
+}
+
+section {
+  margin: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+span {
+  color: red;
+}
